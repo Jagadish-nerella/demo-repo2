@@ -1,5 +1,5 @@
-#canv1{
-    height: 400px;
+#canv1, #canv2, #canv3{
+    height: 300px;
     width: 500px;
     display: block;
 }
